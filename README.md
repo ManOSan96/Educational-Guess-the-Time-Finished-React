@@ -1,5 +1,5 @@
 # Guess-The-Time-React
-SPA to work with React refs and portals. Press the button to start the timer and try to stop on time to get the highest score.
+SPA to work with **React refs and portals**. Press the button to start the timer and try to stop on time to get the highest score.
 
 With the guidance of Maximilian Schwarzmuller
 
